@@ -1,0 +1,11 @@
+{
+  "name": "steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js"
+  },
+  "author": "Shu Ding <ds303077135@gmail.com>",
+  "license": "MIT"
+}
